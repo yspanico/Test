@@ -8,12 +8,12 @@ Now I'm implementing the pippo feature.
 Let's try again to enjoy into a Branch training.
 
 script number 1
-if X = Y then 1
-else 0
+ if X = Y then 1
+	else 0
 
 script number 2
-if X <> Y 1
-else 0
+ if X <> Y 1
+	else 0
 
 # it's OK
 
