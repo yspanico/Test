@@ -12,3 +12,5 @@ Here we are going to fix the bug number 2
 
 if X <> Y 1
 else 0
+
+# it's OK
